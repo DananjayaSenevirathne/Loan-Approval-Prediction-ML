@@ -38,7 +38,7 @@ The workflow follows standard data mining practices:
 ---
 
 ### 👤 Author
-* **Name:** [Oyage Nama]
+* **Name:** [Dananjaya Senevirathne]
 * **Module:** 5DATA002W.2 - Machine Learning & Data Mining
 * **Institution:** University of Westminster
 
